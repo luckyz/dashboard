@@ -1,2 +1,2 @@
 # dashboard
-Home dashboard to display temperature, humidity and other stuff troughth LCD
+Home dashboard to phisically display temperature, humidity and other stuff troughth LCD
